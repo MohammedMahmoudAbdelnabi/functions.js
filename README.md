@@ -25,3 +25,22 @@ This project demonstrates:
 
 4. **Check if a Person is an Adult**  
    Returns `true` if age is 18 or older, otherwise `false`.
+
+
+## 💻 Example Output
+
+```
+- Age in days for 16 years: 5840
+- Final price for item (price=100, tax=20, discount=10): 110
+- Average score of 80, 90, 70: 80
+- Is 16 years old an adult? false
+- Is 20 years old an adult? true
+```
+
+---
+
+
+## 🚀 Author
+
+Mohammed Mahmoud Abdelnabi
+Aspiring Backend Developer | JavaScript Learning Journey
