@@ -29,15 +29,12 @@ This project demonstrates:
 
 ## 💻 Example Output
 
-```
 - Age in days for 16 years: 5840
 - Final price for item (price=100, tax=20, discount=10): 110
 - Average score of 80, 90, 70: 80
 - Is 16 years old an adult? false
 - Is 20 years old an adult? true
-```
 
----
 
 
 ## 🚀 Author
